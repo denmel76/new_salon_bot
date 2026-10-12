@@ -1,0 +1,6 @@
+import os
+TOKEN = os.environ.get("BOT_TOKEN")
+YANDEX_KEY = os.environ.get("YANDEX_KEY")
+YANDEX_FOLDER = os.environ.get("YANDEX_FOLDER")
+SUPABASE_URL = os.environ.get("SUPABASE_URL")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
